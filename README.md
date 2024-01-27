@@ -5,3 +5,5 @@
 Test mise à jour avec VS Code
 
 Encore une autre modification
+
+Ceci est la version "avis"
